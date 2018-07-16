@@ -77,8 +77,8 @@ sudo make install
 node --version
 npm --version
 
-~~#### Upgrade NPM version as per instructions on http://hyperledger-fabric.readthedocs.io/en/release-1.2/prereqs.html~~
-~~npm install npm@5.6.0 -g~~
+#### Upgrade NPM version as per instructions on http://hyperledger-fabric.readthedocs.io/en/release-1.2/prereqs.html
+sudo npm install npm@5.6.0 -g
 
 ### Python 2.7.12 should already be installed on a fresh Ubuntu 16.04 LTS, but just in case, install Python (ensure we're only using version 2.7x and not Python 3)
 sudo apt-get install python
