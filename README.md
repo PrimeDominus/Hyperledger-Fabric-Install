@@ -8,7 +8,7 @@ The following works on a _fresh install_ of **Ubuntu 16.04 LTS**
 ```sudo apt-get update```
 
 ### Install curl and packages to setup Docker repository for the usual Docker install method
-#### See https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce
+#### See https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce for more details on this
 ```sudo apt-get install curl apt-transport-https ca-certificates software-properties-common```
 
 #### Add Docker gpg key
