@@ -1,7 +1,7 @@
 # Hyperledger-Fabric-Install
 Steps I took to install Hyperledger Fabric on Ubuntu, which may one day become automated... maybe.
 
-## NOTE: I am using _fresh install_ of **Ubuntu 16.04 LTS**
+## NOTE: I am using a _fresh install_ of **Ubuntu 16.04 LTS**
 The following works on a _fresh install_ of **Ubuntu 16.04 LTS**
 
 ### Update the package index
